@@ -54,11 +54,14 @@ async function createW3DToken(connection: web3.Connection, payer: web3.Keypair) 
   const imageUri = await metaplex.storage().upload(file)
 
   // Upload the rest of offchain metadata
-  const { uri } = await metaplex.nfts().uploadMetadata({
-    name: TOKEN_NAME,
-    description: TOKEN_DESCRIPTION,
-    image: imageUri,
-  })
+  const { uri } = await metaplex
+    .nfts()
+    .uploadMetadata({
+      name: TOKEN_NAME,
+      description: TOKEN_DESCRIPTION,
+      image: imageUri,
+    })
+    .run()
 
   // Finding out the address where the metadata is stored
 
