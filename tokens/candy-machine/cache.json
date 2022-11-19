@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "AznbM54AAumVYzyVVqDqxXeFpaF29doYRJGQ8NoT73HL",
+    "candyMachineCreator": "Ai9sRFYE3PGuvGrmHSawSG8eCaCnwpSj4MEfy9bJbxvb",
+    "collectionMint": "2UycKtDrLzcqtJHFD4nTSr6kuCXrNgMtFiS5hH8eHzvP"
+  },
+  "items": {
+    "-1": {
+      "name": "WEB3DEV Skills Collection",
+      "image_hash": "bbf96951e18544001e89c68866ced8e3af8645f5b7514d3f2e215f320f3b18e0",
+      "image_link": "https://arweave.net/xQZ-nlNTG_uDRaonBKTDWVPpU6fVEN_MgrDVPz__KJ0?ext=png",
+      "metadata_hash": "3b0a6965ef2be8b8b8cc03bf3e621f51f8185032414116bc63f6fa2792de715a",
+      "metadata_link": "https://arweave.net/LWDgRJlgyUvgp8WWw73VwUBwfsmhrb67fMDo6KVZZSE",
+      "onChain": true
+    },
+    "0": {
+      "name": "WEB3DEV Skill - 1inch",
+      "image_hash": "94d788f7b544d864930a3b12a5436e2f9b5d4b65abcc8cc5239ee6f44409da4c",
+      "image_link": "https://arweave.net/RW1nRqWULky607j7E7WbHreHJ-ZueLKSoBmeQXU2er4?ext=png",
+      "metadata_hash": "bef14bcd55b6deda4adf6796197cf44a4497051b8a820c7f8a19dcede02864be",
+      "metadata_link": "https://arweave.net/FCMTlsVUeYY2XnlCLf4I286xWX8kjeA2JxqyncQ-UbA",
+      "onChain": true
+    },
+    "1": {
+      "name": "WEB3DEV Skill - Algorand",
+      "image_hash": "10dc9fe4ef1851eac38022e026aeb80f7c89bda5daf714b5166c570289ffb0ad",
+      "image_link": "https://arweave.net/Rno-o8mymffJ53KY151pwmdpwUtpsMsHbRihFb8D3fg?ext=png",
+      "metadata_hash": "22da423b936ee9917307aae12e73c2727e89b827f001001d571ccaa05be28262",
+      "metadata_link": "https://arweave.net/dhhAtSF9QaOsIUWPNk-RDDiPhPkPcUqG8C8sAkWByU0",
+      "onChain": true
+    },
+    "2": {
+      "name": "WEB3DEV Skill - BNB",
+      "image_hash": "1ceadd0447350643dd0828120b3768ffad23c857d3e127a730217a3a1a03dbcc",
+      "image_link": "https://arweave.net/hY7qVdF1FQlMz7tmCHDpJmSuulImuFC4oAmN3TAuaxA?ext=png",
+      "metadata_hash": "a4144e19a6749bebef4c3be5abd31be0a03027e5999620042f6a3d6b32e2cf80",
+      "metadata_link": "https://arweave.net/nZRx0kDgoB3loZX5RqcIw4NdWraxtZea_0NzQVRQo_g",
+      "onChain": true
+    },
+    "3": {
+      "name": "WEB3DEV Skill - Cardano",
+      "image_hash": "673fadf855de16982130e49530820af6ffd79d9ec5b15b607c3e92ca16e55dc4",
+      "image_link": "https://arweave.net/fGGdaXoMIBfMq-eL1TDdaI8ApAvy6DieHAr87V9oJp8?ext=png",
+      "metadata_hash": "a2a8912910db440ea05dc8860bf2c60110abe9f25b2cce1c849b53c14ac258ba",
+      "metadata_link": "https://arweave.net/x0eNBfAuYgxRqKaYdK2n1oaEsmCPgiIVivOBnaWF8p4",
+      "onChain": true
+    },
+    "4": {
+      "name": "WEB3DEV Skill - Celo",
+      "image_hash": "88ef8e181edef7e57cc3429e64c154fcd3033f2adfcb739288e82a8097084566",
+      "image_link": "https://arweave.net/xmwP5U72wJhd9wDoI9_p9boqzEEyshCmWMWS7vupHAI?ext=png",
+      "metadata_hash": "59b485c102910422933f9800cebc83bda306b85aa627d2aa9489e9df5579cbda",
+      "metadata_link": "https://arweave.net/2atmiBhApv97JHsjhKsXQ_zFfO_rkA6f7GB45LrvLaE",
+      "onChain": true
+    },
+    "5": {
+      "name": "WEB3DEV Skill - Chainlink",
+      "image_hash": "bb055c14cc2ca422e1c8f84952dbc94c1311752e74c8b7020959c7269067de52",
+      "image_link": "https://arweave.net/ggkLKEDNY4-CH70ZeKZqWWpgggI6N0RaFgcUrUfbxBQ?ext=png",
+      "metadata_hash": "45212977d16a331270e664ca30878fb91e6a87cfb392ed5a16d9f202c2eeea3b",
+      "metadata_link": "https://arweave.net/XgeC-Jm3MOG4p6StCSBq9nWLLm-MKyCYxVaQc4TeLG0",
+      "onChain": true
+    },
+    "6": {
+      "name": "WEB3DEV Skill - Ethereum",
+      "image_hash": "ab2df11397067b20b02b861dd195db3ae85ed2bf328ca6154eda8faa08d6ea48",
+      "image_link": "https://arweave.net/rRxUVweyLLECYnUT9sXvrf4JOC6dvy63jEIFYa4zSIM?ext=png",
+      "metadata_hash": "a6444a75a841f223fa28decc8740a5593589113ab138a69eb5294b295dc27fb0",
+      "metadata_link": "https://arweave.net/ZpOH205VjM2JbgLvXP5K6IUn4FnJgKXiIDwn7xUwGgU",
+      "onChain": true
+    },
+    "7": {
+      "name": "WEB3DEV Skill - Fantom",
+      "image_hash": "f7e4d8e164bc7e004d0e8dee4c596a115d2bb25137c3a5a3cecb722948e2ea0b",
+      "image_link": "https://arweave.net/4BZ189j872MYVVcH43DH6reY4Tt0Y6HJbU7y7Lm4aaY?ext=png",
+      "metadata_hash": "706ef364d497fb238983c472bc6c01dc7be9ccb6d1fb6ed57e23b10e24544a98",
+      "metadata_link": "https://arweave.net/neNPc5mnMHXnr1Zgo95eenmlVqhKxM5OTsios4lqghE",
+      "onChain": true
+    },
+    "8": {
+      "name": "WEB3DEV Skill - Filecoin",
+      "image_hash": "f905a4dfa65690c8f85b001c32ded3e384fb269c0468b0efc02cf1ec3f169c27",
+      "image_link": "https://arweave.net/0LOK4vui9kyF0kAJaDZM1nRqaAyZAxb6Xp7Uzs7VQjo?ext=png",
+      "metadata_hash": "fdd5b4de9166b3a3d8a964ab42ceb39c3577935515b255114cb5113a2709d36f",
+      "metadata_link": "https://arweave.net/dqedciiK4aqtRD-8pAjDyCHFMN8q5i4Ly75EslDCiak",
+      "onChain": true
+    },
+    "9": {
+      "name": "WEB3DEV Skill #10",
+      "image_hash": "f007cf0a038f76d69620fcdd1e85714fc08f446c29116c5a69f1afd2afe6fb4e",
+      "image_link": "https://arweave.net/cgpKKTQQtAtkrCC5BCl-CMriETWV5VX870sfcl9BktU?ext=png",
+      "metadata_hash": "a0f45ad0316900eb93673d3ec1da6aa14cf310819eb5cab6aaa1309e0fbca17a",
+      "metadata_link": "https://arweave.net/U1dRDHvsTBCgVBxpf9AMo2aD-qhAbouFmdCNqvqvycM",
+      "onChain": true
+    }
+  }
+}

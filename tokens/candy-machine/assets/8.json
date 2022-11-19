@@ -1,0 +1,29 @@
+{
+  "name": "WEB3DEV Skill - Filecoin",
+  "symbol": "WE3DEVER",
+  "description": "The WEB3DEV Skills in different protocols.",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "storage"
+    },
+    {
+      "trait_type": "animal",
+      "value": "none"
+    },
+    {
+      "trait_type": "evm",
+      "value": "false"
+    },
+    { "trait_type": "token", "value": "FIL" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

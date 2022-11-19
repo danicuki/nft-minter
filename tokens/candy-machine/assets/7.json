@@ -1,0 +1,29 @@
+{
+  "name": "WEB3DEV Skill - Fantom",
+  "symbol": "WE3DEVER",
+  "description": "The WEB3DEV Skills in different protocols.",
+  "image": "7.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "blockchain"
+    },
+    {
+      "trait_type": "animal",
+      "value": "none"
+    },
+    {
+      "trait_type": "evm",
+      "value": "false"
+    },
+    { "trait_type": "token", "value": "FTM" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "WEB3DEV Skill #10",
+  "symbol": "WE3DEVER",
+  "description": "The WEB3DEV Skills in different protocols.",
+  "image": "9.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "network"
+    },
+    {
+      "trait_type": "animal",
+      "value": "none"
+    },
+    {
+      "trait_type": "evm",
+      "value": "false"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

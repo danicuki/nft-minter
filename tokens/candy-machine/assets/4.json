@@ -1,0 +1,29 @@
+{
+  "name": "WEB3DEV Skill - Celo",
+  "symbol": "WE3DEVER",
+  "description": "The WEB3DEV Skills in different protocols.",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "blockchain"
+    },
+    {
+      "trait_type": "animal",
+      "value": "none"
+    },
+    {
+      "trait_type": "evm",
+      "value": "true"
+    },
+    { "trait_type": "token", "value": "CELO" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

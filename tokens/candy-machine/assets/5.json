@@ -1,0 +1,29 @@
+{
+  "name": "WEB3DEV Skill - Chainlink",
+  "symbol": "WE3DEVER",
+  "description": "The WEB3DEV Skills in different protocols.",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "oracle"
+    },
+    {
+      "trait_type": "animal",
+      "value": "none"
+    },
+    {
+      "trait_type": "evm",
+      "value": "true"
+    },
+    { "trait_type": "token", "value": "LINK" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
