@@ -66,7 +66,7 @@ const Connected: FC = () => {
       }
 
     },
-    [metaplex, walletAdapter, candyMachine]
+    [metaplex, walletAdapter, candyMachine, router]
   );
 
   return (
