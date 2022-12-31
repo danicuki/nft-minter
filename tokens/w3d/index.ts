@@ -24,11 +24,18 @@ const TOKEN_IMAGE_PATH = `tokens/w3d/assets/${TOKEN_IMAGE_NAME}`
 async function main() {
   const connection = new web3.Connection(web3.clusterApiUrl("devnet"))
   const payer = await initializeKeypair(connection)
-  await createW3DToken(connection, payer)
+  const NFT_PROGRAM_ID = "3nkzra9qcHA7bY3Sgfy4ChZMjpW1BFguj5HNWcA86Gj7"
+  await createW3DToken(connection, payer, new web3.PublicKey(NFT_PROGRAM_ID))
 }
 
-async function createW3DToken(connection: web3.Connection, payer: web3.Keypair) {
+async function createW3DToken(
+  connection: web3.Connection,
+  payer: web3.Keypair,
+  programId: web3.PublicKey
+) {
   // This will create a token with all the necessary inputs
+  const [mintAuth] = await web3.PublicKey.findProgramAddress([Buffer.from("mint")], programId)
+
   const tokenMint = await token.createMint(
     connection, // Connection
     payer, // Payer
@@ -98,6 +105,15 @@ async function createW3DToken(connection: web3.Connection, payer: web3.Keypair) 
   const transactionSignature = await web3.sendAndConfirmTransaction(connection, transaction, [
     payer,
   ])
+
+  await token.setAuthority(
+    connection,
+    payer,
+    tokenMint,
+    payer.publicKey,
+    token.AuthorityType.MintTokens,
+    mintAuth
+  )
 
   fs.writeFileSync(
     "tokens/w3d/cache.json",
